@@ -1,5 +1,5 @@
 const esClient = require("./esClient");
-const logger = require("./server/logger/index")
+const logger = require("../logger/index")
 
 const category = async (reqQuery, res) => {
     esClient.ping({}, async (error) => {
