@@ -21,5 +21,8 @@ class CategoryDataService {
   findByTitle(title) {
     return http.get(`/category?title=${title}`);
   }
+  searchWithElastic(title) {
+    return http.get(`/esCategory?title=${title}`);
+  }
 }
 export default new CategoryDataService();

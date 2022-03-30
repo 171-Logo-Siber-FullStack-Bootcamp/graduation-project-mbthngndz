@@ -1,0 +1,101 @@
+[
+  {
+      "id": 2,
+      "title": "Telefon",
+      "description": "Iphone 13",
+      "imageUrl": "http://127.0.0.1:8000/57c2b2f94158588d1d0d612138b19529",
+      "price": 14000,
+      "createdAt": "2022-03-29T21:02:08.685Z",
+      "updatedAt": "2022-03-29T21:02:08.685Z"
+  },
+  {
+      "id": 3,
+      "title": "Televizyon",
+      "description": "Sony",
+      "imageUrl": "http://127.0.0.1:8000/c0d31ebd5dfb2aaaf042776c60df2e3e",
+      "price": 9000,
+      "createdAt": "2022-03-29T21:03:09.618Z",
+      "updatedAt": "2022-03-29T21:03:09.618Z"
+  },
+  {
+      "id": 4,
+      "title": "Tablet",
+      "description": "Samsung Galaxy",
+      "imageUrl": "http://127.0.0.1:8000/dfeb0c583ef68b1b909459b7e5017430",
+      "price": 5000,
+      "createdAt": "2022-03-29T21:04:16.353Z",
+      "updatedAt": "2022-03-29T21:04:16.353Z"
+  },
+  {
+      "id": 5,
+      "title": "Saat",
+      "description": "Apple Watch",
+      "imageUrl": "http://127.0.0.1:8000/ab916887e73f1cf87c9351f46dd68b1c",
+      "price": 4000,
+      "createdAt": "2022-03-29T21:05:01.161Z",
+      "updatedAt": "2022-03-29T21:05:01.161Z"
+  },
+  {
+      "id": 6,
+      "title": "Ayakkabı",
+      "description": "Air Max",
+      "imageUrl": "http://127.0.0.1:8000/c54d4a05556616dd4ff4d06e9c271d2a",
+      "price": 1500,
+      "createdAt": "2022-03-29T21:05:28.836Z",
+      "updatedAt": "2022-03-29T21:05:28.836Z"
+  },
+  {
+      "id": 7,
+      "title": "Kozmetik",
+      "description": "Ruj",
+      "imageUrl": "http://127.0.0.1:8000/3e38f6b5bffc2d46253761eba41f2f63",
+      "price": 200,
+      "createdAt": "2022-03-29T21:06:07.933Z",
+      "updatedAt": "2022-03-29T21:06:07.933Z"
+  },
+  {
+      "id": 8,
+      "title": "Ev-Dekorasyon",
+      "description": "Salon Takımı",
+      "imageUrl": "http://127.0.0.1:8000/ec3a75e461c22108a84cf2b98577deea",
+      "price": 8000,
+      "createdAt": "2022-03-29T21:06:51.755Z",
+      "updatedAt": "2022-03-29T21:06:51.755Z"
+  },
+  {
+      "id": 9,
+      "title": "Outdoor",
+      "description": "Dağcı Çantası",
+      "imageUrl": "http://127.0.0.1:8000/67a67176189240cec502f6934e30a879",
+      "price": 1500,
+      "createdAt": "2022-03-29T21:07:14.228Z",
+      "updatedAt": "2022-03-29T21:07:14.228Z"
+  },
+  {
+      "id": 10,
+      "title": "Bilgisayar",
+      "description": "Lenovo",
+      "imageUrl": "http://127.0.0.1:8000/4ff6a96858a6778be6e083e843ab4d07",
+      "price": 9500,
+      "createdAt": "2022-03-29T21:07:43.247Z",
+      "updatedAt": "2022-03-29T21:07:43.247Z"
+  },
+  {
+      "id": 11,
+      "title": "Çanta",
+      "description": "EL Çantası",
+      "imageUrl": "http://127.0.0.1:8000/896ebfaa94630aa35231993d8e4e5e00",
+      "price": 750,
+      "createdAt": "2022-03-29T21:08:13.556Z",
+      "updatedAt": "2022-03-29T21:08:13.556Z"
+  },
+  {
+      "id": 13,
+      "title": "deneme",
+      "description": "test",
+      "imageUrl": "http://127.0.0.1:8000/f812f8d624d099f15b82062c100697a3",
+      "price": 67,
+      "createdAt": "2022-03-29T21:34:23.956Z",
+      "updatedAt": "2022-03-29T21:34:42.941Z"
+  }
+]

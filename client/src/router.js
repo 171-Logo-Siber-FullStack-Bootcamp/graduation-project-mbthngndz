@@ -10,11 +10,6 @@ const routes =  [
     path: "/categories/:id",
     name: "category-details",
     component: () => import("./components/GetCategory")
-  },
-  {
-    path: "/admin",
-    name: "add",
-    component: () => import("./components/AddCategory")
   }
 ];
 const router = createRouter({

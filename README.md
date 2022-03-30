@@ -1,16 +1,34 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7342273&assignment_repo_type=AssignmentRepo)
 # Logo Siber Güvenlik ve Ağ Teknolojileri Full Stack Bootcamp Bitirme Projesi
 
-- Tek sayfadan oluşacak bir e-ticaret sitesi
+### One Page Ecommerce Web Site Full Stack
 
-## Proje Detayları:
+Screenshot and Video Recording
+![Screenshot](/screenshot/Kategori-list.png)
+![Screenshot](/screenshot/kategori-detay.png)
+![Screenshot](/screenshot/elastic-konsol.png)
+![Screenshot](/screenshot/Backend-crud-i%C5%9Flemleri-ve-elastic.mov)
 
-- Vue.js ile tek sayfadan oluşan bir e-ticaret sistemi tasarlayacağız.
-- 10 adet kategori olacak.
-- Tüm backend işlemleri Node.js ile yapılacak.
-- Arayüz Vue.js ile yapılacak.
-- Ürünler API’den çekilecek. İstenilen API kullanılabilir. API’yi kendiniz tasarlayabilirsiniz.
-- ElasticSearch ile ana sayfada arama alanı yapılacak.
-- Winston kullanılacak.
-- Ürüne tıkladığımız zaman bir kutusu ekrana gelecek ve ürünün bilgileri yer alacak.
-- Relational veritabanı için PostgreSQL kullanılacak.
+
+### Frontend Technologies
+
+* Vue.js
+* Bootstrap
+
+### Back-End API
+
+Used Node.js, Express, PostgreSQL, Sequelize, Elastic Search, Winston Logger
+
+### Run locally
+
+Follow the steps in root file Back-End API to run the Back-End first
+
+```
+npm install
+nodemon dev
+```
+
+Then run Front-End in client file
+```
+npm install
+npm run serve
+```
